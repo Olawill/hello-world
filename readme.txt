@@ -1,0 +1,1 @@
+hello: adding new text to test the git diff functionality
